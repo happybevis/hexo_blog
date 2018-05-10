@@ -1,7 +1,7 @@
 ---
 title: 神奇的Selinux Restore Rule
 date: 2018-05-02 11:14:54
-tags:
+tags: Linux & Android 技术
 ---
 
 前些日子，老大的手机没电了，充电开机后一直卡在开机动画不断转啊转。立马将手机借来分析，由此便有了这篇文章。网上讲sepolicy的文章很多，尤其”[Innost大神的专栏](https://blog.csdn.net/innost/article/details/19299937) “讲的特别好（分一二两篇），所以其基础部分在此便不再赘述。
