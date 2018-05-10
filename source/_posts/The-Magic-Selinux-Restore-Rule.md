@@ -547,4 +547,3 @@ err:
 所以建议大家将selinux的label定义到file_contexts中以便进行更一般化的管理，尽量避免在mount文件系统的时候加入context=“*”参数，这样很容易麻痹自己和同事，造成不必要的兼容性问题。 故再次强调，请千万慎用mount时候加如context=“*”以求打入label的做法。
 
 
-版权声明：版权所有权属于HappyBevis，转载请注明出处，谢谢！

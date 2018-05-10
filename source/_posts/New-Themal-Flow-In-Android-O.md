@@ -690,4 +690,3 @@ User space中的Thermal管理，主要是通过Thermal-Engine完成，这部分�
 
 本文从实际工作案例出发，介绍了工作中debug问题的思路和一些debug方法。同时还分析了BCL和Thermal Core的工作机制，目的是让大家能尽快对Thermal-Core框架快速上手，已达到举一反三的目的。
 
-版权声明：版权所有权属于HappyBevis，转载请注明出处，谢谢！

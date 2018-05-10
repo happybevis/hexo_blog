@@ -199,6 +199,10 @@ sidebar:
   # Enable sidebar on narrow view (only for Muse | Mist).
   onmobile: false
 
+# 文章末尾添加“本文结束”标记
+passage_end_tag:
+  enabled: true
+
 
 # ---------------------------------------------------------------
 # Post Settings
